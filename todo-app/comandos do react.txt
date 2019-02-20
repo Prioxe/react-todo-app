@@ -1,0 +1,14 @@
+npm init -y (criando o arquivo package.json)
+
+npm i --save (para salvar as dependencias no package.json)   
+{body-parser vai ler os parametros em jarvascritp}
+{express framework web}
+{mongoose conexão com o banco de dados}
+{node-restful ajuda a simplificar o crud,consultas e filtros}
+{pm2 inicializador da aplicação um lauch, monitoramento de processos'PRODUCAO'}
+
+desenvolvimento
+
+npm i --save-dev -E nodemon@1.11.0
+
+-E versão exata
