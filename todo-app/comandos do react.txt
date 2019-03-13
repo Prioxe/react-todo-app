@@ -12,3 +12,18 @@ desenvolvimento
 npm i --save-dev -E nodemon@1.11.0
 
 -E versão exata
+
+
+Produção
+npm run production
+pm2 monit
+pm2 status
+(npm i pm2 -g            '-g e de global')
+
+npm  i --save-dev webpack@1.14.0 webpack-dev-server@1.16.2
+
+npm i --save-dev babel-core@6.22.1 babel-loader@6.2.10 babel-plugin-react-html-attrs@2.0.0 babel-plugin-transform-object-react-spread@6.22.0 babal-preset-e2015@6.22.0 babel-preset-react@6.22.0
+
+
+
+
