@@ -1,0 +1,5 @@
+***Instalando o react***
+npm i -g create-react-app
+
+
+***Criando o projeto***
